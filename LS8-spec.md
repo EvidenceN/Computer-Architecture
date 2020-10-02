@@ -193,7 +193,7 @@ Machine code:
 A0 0a 0b
 ```
 
-### AND
+### AND #START HERE
 
 *This is an instruction handled by the ALU.*
 
